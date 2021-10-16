@@ -1,4 +1,4 @@
-let nama = "tatan"
+let nama = "ruhiat"
 let umur = 20
 let tinggal = "Boston"
 let tabungan = 100000
